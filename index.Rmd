@@ -1,0 +1,5 @@
+---
+title: "A distill test"
+site: distill::distill_website
+listing: posts
+---
